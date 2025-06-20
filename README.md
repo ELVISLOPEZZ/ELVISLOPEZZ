@@ -7,7 +7,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 
-<h1 align="center">👨‍💻 Elvis Bryan Méndez López</h1>
+<h1 align="center">👨‍💻 Elvis López</h1>
 <h3 align="center">💡 Creativo. 🧠 Apasionado. 🎯Estudiante de TI</h3>
 
 ---
@@ -15,7 +15,6 @@
 - 💚 Me inspira resolver problemas reales con ideas digitales
 - 🚀 Actualmente desarrollo:
   - Un **Sistema POS profesional**
-  - Soluciones con sensores (ESP32 + DHT11)
 - 🌈 Busco crear tecnología útil, accesible y bien diseñada
 
 ---
